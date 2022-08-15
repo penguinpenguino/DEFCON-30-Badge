@@ -14,6 +14,7 @@ Tool for writing custom badge firmware. Only supports buttons, screen and LEDs r
 
 ```sh
 mkdir build
+cd build
 cmake .. -DPICO_SDK_PATH=../pico-sdk
 make
 ```
