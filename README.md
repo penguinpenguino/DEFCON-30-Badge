@@ -2,6 +2,7 @@
 
 Tool for writing custom badge firmware. Only supports buttons, screen and LEDs right now. Nothing in place for the speaker or keyboard.
 
+Also this was just a quick write thing so if you have any complaints, then don't.
 
 ## Setup
 
